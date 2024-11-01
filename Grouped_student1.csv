@@ -2371,8 +2371,8 @@ G-33,4194,EEE,Jin Hui,Male,4.09,8
 G-33,1876,CoB (NBS),Jonas Li,Male,4.19,7
 G-33,4081,EEE,Liam Collins,Male,4.05,1
 G-33,2911,CoB (NBS),Liang Wei,Male,4.08,10
-G-33,5927,NIE,Liang Zhao,Male,4.22,3,4
-G-33,1517,SPMS,Liang Zhao,Male,4.22,3,4
+G-33,5927,NIE,Liang Zhao,Male,4.22,4
+G-33,1517,SPMS,Liang Zhao,Male,4.22,3
 G-33,3680,SoH,Lin Yi,Female,4.11,4
 G-33,553,SoH,Lola Lee,Female,4.15,8
 G-33,1431,MSE,Lucy Rogers,Female,4.26,2
@@ -3257,8 +3257,8 @@ G-5,1018,CCEB,Aria Morales,Female,4.26,1
 G-5,1976,NIE,Christopher Harris,Male,4.05,2
 G-5,2961,SBS,Danying,Female,4.05,10
 G-5,2309,EEE,Dmitri Andreev,Male,4.03,2
-G-5,5912,MAE,Dorian Wu,Male,4.14,3,10
-G-5,2801,SPMS,Dorian Wu,Male,4.22,3,10
+G-5,5912,MAE,Dorian Wu,Male,4.14,10
+G-5,2801,SPMS,Dorian Wu,Male,4.22,3
 G-5,4766,CoB (NBS),Dylan Kim,Male,4.16,8
 G-5,1387,WKW SCI,Elijah Clark,Male,4.04,1
 G-5,2316,EEE,Exiang,Male,3.95,6
@@ -3932,8 +3932,8 @@ G-61,987,SoH,Miyuki Ikeda,Female,4.19,5
 G-61,5362,CEE,Pandu Rahmat,Male,4,4
 G-61,4592,SoH,Parker Li,Male,4.27,2
 G-61,965,MAE,Paul Allen,Male,4.03,1
-G-61,1536,CCDS,Quang Tran,Male,4.08,6,8
-G-61,1438,SSS,Quang Tran,Male,3.85,6,8
+G-61,1536,CCDS,Quang Tran,Male,4.08,6
+G-61,1438,SSS,Quang Tran,Male,3.85,8
 G-61,5680,CoB (NBS),Quincy Li,Male,4.22,3
 G-61,5591,SPMS,Samantha Ramos,Female,3.93,6
 G-61,3950,EEE,Sana Javed,Female,4.02,2
@@ -4196,8 +4196,8 @@ G-66,5384,EEE,Yale Cruz,Male,3.91,7
 G-66,5330,SSS,Ying Yue,Female,4.17,8
 G-66,3947,MAE,Yuki Yamamoto,Female,3.92,7
 G-66,97,SPMS,Zheng Hao Tan,Male,4,6
-G-66,820,ASE,Zhihao,Male,4.48,1,8
-G-66,957,SBS,Zhihao,Male,4.15,1,8
+G-66,820,ASE,Zhihao,Male,4.48,1
+G-66,957,SBS,Zhihao,Male,4.15,8
 G-66,4021,EEE,Zoe Yip,Female,4,5
 G-67,3570,CCDS,Addison Bell,Female,3.85,9
 G-67,227,ASE,Akira Matsuda,Male,3.85,9
@@ -5168,8 +5168,8 @@ G-84,4506,MAE,Hannah Chen,Female,4.22,4
 G-84,2768,CCDS,Hiroki Matsusaka,Male,3.86,4
 G-84,2256,MAE,Imran Khan,Male,4.19,9
 G-84,4236,CCEB,Isabella Moore,Female,4.01,5
-G-84,4905,EEE,Kaito Takahashi,Male,4.22,3,9
-G-84,5419,NIE,Kaito Takahashi,Male,4.19,3,9
+G-84,4905,EEE,Kaito Takahashi,Male,4.22,3
+G-84,5419,NIE,Kaito Takahashi,Male,4.19,9
 G-84,4091,CoB (NBS),Kavya Menon,Female,4.2,6
 G-84,1993,SPMS,Kiran Menon,Female,4.11,9
 G-84,3363,CoE,Leo Chen,Male,4.09,1
@@ -5380,8 +5380,8 @@ G-88,2949,EEE,Naoko Nishiyama,Female,4,6
 G-88,493,CCDS,Nina Binti Ismail,Female,4,6
 G-88,455,CoB (NBS),Oliver Davis,Male,4.2,4
 G-88,280,MAE,Pablo Mendoza,Male,4.02,3
-G-88,3398,CCEB,Pengfei,Female,4.15,5,8
-G-88,3710,CCEB,Pengfei,Male,4,5,8
+G-88,3398,CCEB,Pengfei,Female,4.15,8
+G-88,3710,CCEB,Pengfei,Male,4,5
 G-88,3715,CoB (NBS),Petrus Santoso,Male,4.1,6
 G-88,3803,SBS,Qingyu,Female,4.2,3
 G-88,5617,EEE,Rashid Khan,Male,3.86,9
